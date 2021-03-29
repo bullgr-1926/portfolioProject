@@ -1,0 +1,11 @@
+.container {
+    background-image: url('../images/background.jpg');
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+  }
+  
